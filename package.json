@@ -1,0 +1,24 @@
+{
+  "name": "phantomjs-polyfill-every",
+  "version": "1.0.0",
+  "description": "Polyfill for Array.prototype.every",
+  "main": "every-polyfill.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ndelangen/phantomjs-polyfill-every.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phantomjs",
+    "every",
+    "polyfill"
+  ],
+  "author": "Norbert de Langen <ndelangen@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptim/phantomjs-polyfill-every/issues"
+  },
+  "homepage": "https://github.com/ptim/phantomjs-polyfill-every/issues"
+}
