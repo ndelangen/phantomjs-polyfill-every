@@ -1,7 +1,5 @@
 # phantomjs-polyfill-every
 
-Array.prototype.every polyfill for phantom.js based on https://github.com/ndelangen/phantomjs-polyfill
-
 This is a polyfill for Array.prototype.every which is missing from PhantomJS.
 
 
